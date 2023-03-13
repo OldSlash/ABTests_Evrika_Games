@@ -24,7 +24,8 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.VC.opendb
-
+#Logs
+Logs/
 # Builds
 bin/
 Build/
@@ -63,3 +64,5 @@ ProjectSettings/
 *.sln*
 *.prefs*
 *.pidb*
+# TextMesh Pro files
+Assets/TextMesh*Pro/
